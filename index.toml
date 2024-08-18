@@ -509,6 +509,11 @@ hash = "ad38d60ef123c7e36e2f688c4a98b94f038bfff7db8e2cd7f5a5c0f7c9d7838e"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
+metafile = true
+
+[[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "bb798676e1a411b30830b4ffc87b45e583ea1b6d6cd80e8f6ed5315da1eaca4d"
 metafile = true
@@ -702,6 +707,10 @@ hash = "a819937cbfe4321b622696ef8e928a9ed5fc18c2c99afe0a902674b533f9b9ca"
 [[files]]
 file = "mods/letsdo-candlelight-forge-2.0.1.jar"
 hash = "c8bf6164ccda58d8929cc01f05b833003e23040fcbf131d0204de66f1a812201"
+
+[[files]]
+file = "mods/letsdo-farm_and_charm-forge-1.0.1.jar"
+hash = "58df0cbbd47e9c58a9f717c03f14709f5c1e9d7d1b5801d78ec534b68d88ccf5"
 
 [[files]]
 file = "mods/libipn.pw.toml"
@@ -1004,6 +1013,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
 metafile = true
 
 [[files]]
