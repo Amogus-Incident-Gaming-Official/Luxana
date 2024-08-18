@@ -92,6 +92,11 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
+metafile = true
+
+[[files]]
 file = "mods/asoteria.pw.toml"
 hash = "b7fc8cb57027865d74abd3d6b7fa7704637c9150cc6471b0be3b346d5a66d375"
 metafile = true
