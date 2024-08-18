@@ -372,6 +372,10 @@ hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
+hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "2c9a47d50bdcc05d821874e0b599bd31bcecfea6151822684fe4429d2143762b"
 metafile = true
