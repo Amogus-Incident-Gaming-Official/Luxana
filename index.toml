@@ -129,6 +129,11 @@ hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "82de5845ba726131d003e6111e5686e92c36746753d255b117c77628f040846a"
+metafile = true
+
+[[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
@@ -420,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
-hash = "569b3909886c728b647a06a84b69db2ffd50dbb8eb9a6a4d201600420feb70a9"
+hash = "5634554cb7a68b6a456822b2fa4a1e54192c498c3b313291af0b190ea29b2e8e"
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-651.jar"
