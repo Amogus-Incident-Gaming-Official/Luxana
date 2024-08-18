@@ -700,13 +700,18 @@ hash = "ad3b53a03146fac5e46803a06836c38ae13bc36eb4fb86b848202152fb76d171"
 metafile = true
 
 [[files]]
+file = "mods/truly-modular-archery.pw.toml"
+hash = "8580fa20163e2772fb015dd4fb1c498fcf1909ba75d0a48315f559aa9f3c13cd"
+metafile = true
+
+[[files]]
 file = "mods/truly-modular-armory.pw.toml"
-hash = "161169ce7c9ebe6b6aa712acaf958f163bbb9276ce54d3dd4dd177bfc96a05a3"
+hash = "4a793080369e0b54b07c2593c4fc00a7c8d2566ca7ebd7d2e643cf66bc5af00b"
 metafile = true
 
 [[files]]
 file = "mods/truly-modular-arsenal.pw.toml"
-hash = "eacb961573987a22c8d0f7843f5074a109bce07ce9499f74942e5f1e03146309"
+hash = "9fafe7c459ae7c76990325b1cbd7bd946ab2af46234bbe3e88055ce291c2e823"
 metafile = true
 
 [[files]]
