@@ -79,6 +79,11 @@ hash = "0720dbbe9dfa58fa6376777e0a65d7b5a0ca3e116ccc984fde446795d5073d84"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
@@ -254,6 +259,11 @@ hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
@@ -389,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
