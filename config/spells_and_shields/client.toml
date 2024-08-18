@@ -2,7 +2,7 @@
 [mana]
 	#Hide the mana bar if it has not changed for the set amount of time (in ticks, 1 second = 20 ticks). Set to 0 to always have it visible.
 	#Range: 0 ~ 1200
-	hideDelay = 0
+	hideDelay = 20
 	#Put the mana bar above the food/health bar (true) or else put it below (false).
 	guiAboveFood = true
 	#Put the mana bar next to the health bar (true) or else leave it next to the food bar (false).
