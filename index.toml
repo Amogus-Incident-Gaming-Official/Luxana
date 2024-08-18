@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/wizards_reborn-client.toml"
+hash = "60122d0716ea75f8e3029c75ee4effe7562395fbe9cce6595c57c007c7b8cfa5"
+
+[[files]]
 file = "configureddefaults/config/bocchud.json"
 hash = "fdab60c5403d12a689cca297157520eb97a801cca0dcf630adde7c51ff0ae1c0"
 
