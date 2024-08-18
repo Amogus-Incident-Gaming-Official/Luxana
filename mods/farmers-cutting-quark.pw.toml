@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Quark"
+filename = "farmers-cutting-quark-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rH2QzhPh/versions/jvk6T2SJ/farmers-cutting-quark-1.0.0.jar"
+hash-format = "sha1"
+hash = "c26926db64bb232b61099d270e870e518f5e7e72"
+
+[update]
+[update.modrinth]
+mod-id = "rH2QzhPh"
+version = "jvk6T2SJ"

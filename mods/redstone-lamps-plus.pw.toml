@@ -1,0 +1,13 @@
+name = "Redstone Lamps Plus"
+filename = "redstone_lamps_plus-1.5.3 (1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1ce1f01394c3e3e8a13437e66e2775d9872e060"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5045908
+project-id = 509266
