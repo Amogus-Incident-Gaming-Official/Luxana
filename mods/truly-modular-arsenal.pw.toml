@@ -1,0 +1,13 @@
+name = "Truly Modular: Arsenal"
+filename = "Truly-Modular-Arsenal-1.0-pre-release.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4LaId7f/versions/RBGrIZky/Truly-Modular-Arsenal-1.0-pre-release.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "04cb11cec7943fa56f95134150f829f006bf18fb"
+
+[update]
+[update.modrinth]
+mod-id = "V4LaId7f"
+version = "RBGrIZky"
