@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
+hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
 
 [[files]]
@@ -697,11 +697,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ad3b53a03146fac5e46803a06836c38ae13bc36eb4fb86b848202152fb76d171"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-archery.pw.toml"
-hash = "4944e52902d9f333808c9c9ee4e02d84569e8355cb12d111d8b5e6eb10a2efaf"
 metafile = true
 
 [[files]]
