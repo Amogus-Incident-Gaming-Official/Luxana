@@ -917,11 +917,6 @@ hash = "95cb627d4f6ac64e0482ad359f0fb9cfa0c1abe248370d61bc2a520d2b8c665c"
 metafile = true
 
 [[files]]
-file = "mods/redstone-lamps-plus.pw.toml"
-hash = "441b8b39084b30929cd365263cdfa7e28c6de8605ba78f5b116797a64676ca2e"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "bfe4c9485e2c84f44b4d76b5ec565c2fe33e7e9ae8d9720d9347a72d62b59602"
 metafile = true
