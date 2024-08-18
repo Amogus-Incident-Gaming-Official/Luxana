@@ -1,6 +1,6 @@
 name = "SmartBrainLib"
 filename = "SmartBrainLib-forge-1.20.1-1.14.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PuyPazRT/versions/oBH3gOjh/SmartBrainLib-forge-1.20.1-1.14.2.jar"
