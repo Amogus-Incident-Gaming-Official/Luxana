@@ -1,4 +1,4 @@
-name = "Basepack Forge"
+name = "Luxana"
 author = "verbina29"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8cff6574857b9209636238a4da105667b79009bf8a052f98fc9d2c849655b924"
+hash = "2368df8189633192ce1995de406da30a4c11bfd876120d8223551bc139768843"
 
 [versions]
 forge = "47.3.6"
