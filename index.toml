@@ -264,6 +264,14 @@ hash = "15b1a9e5e39e904e4a668da8a048485fac5fd7cd259fc6999aedbf05fb6c3fe4"
 metafile = true
 
 [[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
+hash = "569b3909886c728b647a06a84b69db2ffd50dbb8eb9a6a4d201600420feb70a9"
+
+[[files]]
+file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-651.jar"
+hash = "a0f6b87b271655065f8cd8cc1185696ba04e6b0b46362ec40219401d37550db2"
+
+[[files]]
 file = "mods/icterine.pw.toml"
 hash = "1bc981bf46b07ba284e9e89524fa2ed32d121bf9aa295eeb7c10af5d816cc9bb"
 metafile = true
@@ -382,6 +390,10 @@ metafile = true
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
+
+[[files]]
+file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
+hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
 
 [[files]]
 file = "mods/paxi.pw.toml"
