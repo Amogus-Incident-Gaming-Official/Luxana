@@ -994,6 +994,11 @@ hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
 metafile = true
 
 [[files]]
+file = "mods/servuxforged.pw.toml"
+hash = "64d7d38bf66b2df528bdad61843b03d473de18d45bdb8a22480b6fb932792c2f"
+metafile = true
+
+[[files]]
 file = "mods/simple-musket.pw.toml"
 hash = "f0633419b9111ff1cf324db412ff0912aaba66cba907abd8c20c3a21ae47605a"
 metafile = true
