@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "f27cc0ae480c735cc33f414c9dd992790a92199395131f07b4fdcccf1f4949b8"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
+
+[[files]]
 file = "config/spells_and_shields/client.toml"
 hash = "38ea0164c5e9348d1f8d1a12781a98f976b2650ac456c760ae6c130eb86fe76d"
 
@@ -308,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "3af9477a2722ae541be216c83c5b7ccfd257c6811e653ca37d1773b5a2eeecf9"
-metafile = true
-
-[[files]]
-file = "mods/create-more-drill-heads.pw.toml"
-hash = "8fe9cb403f0516794dc8ab9f81dd64dc0e83c831899f66e32543b6845cac2fde"
 metafile = true
 
 [[files]]
