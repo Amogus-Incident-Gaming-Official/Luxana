@@ -322,11 +322,6 @@ hash = "7dec8203f7f0ea609e646fe8d7d08c0c84822ae72c016ae12752c3e4d87d9653"
 metafile = true
 
 [[files]]
-file = "mods/create-wizardry.pw.toml"
-hash = "07a499d628402caa92fa8ced03ddf4eecc6df93ac0b5f3089f890fd18700dfb8"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
