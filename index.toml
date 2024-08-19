@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "f27cc0ae480c735cc33f414c9dd992790a92199395131f07b4fdcccf1f4949b8"
+hash = "f8ce0e9015a103a3c8eb6756a0288b55e3cfc4819e30fe20b5adcd496e8385c2"
 
 [[files]]
 file = "config/alexsmobs.toml"
