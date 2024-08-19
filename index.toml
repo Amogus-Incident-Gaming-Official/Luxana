@@ -56,6 +56,11 @@ hash = "c41ab206053416870afc695af54c1b1d3ba39dbd2c3ffe7feb3aebe3b3e2a93f"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "90e6b6e0c2870e0fa874e41ccab0576a40bfa3604e45dfcbafb46fd96347c0bf"
+metafile = true
+
+[[files]]
 file = "mods/alekiships.pw.toml"
 hash = "11171584cf9dc17e280e5b53320b9d39fa3dc23b2cf737d77e0ccb78b9c6dcc7"
 metafile = true
@@ -827,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
 hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "77740f2f9cbdd4c2f8a88d53f5e5ffa7197405db846d3ba7a99bf89f577803ea"
+metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
