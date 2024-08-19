@@ -584,6 +584,11 @@ hash = "15b1a9e5e39e904e4a668da8a048485fac5fd7cd259fc6999aedbf05fb6c3fe4"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.pw.toml"
+hash = "7b5ccbf1230618a2b1cfd7ec9b0ceecfcb0bbc8444ed5d022cb3ae4b13e41c51"
+metafile = true
+
+[[files]]
 file = "mods/hamsters.pw.toml"
 hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
 metafile = true
