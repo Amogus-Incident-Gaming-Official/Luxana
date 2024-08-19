@@ -37,6 +37,10 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
+file = "defaultconfigs/mahoutsukai-server.toml"
+hash = "a306614469d313a6b00da46b3857e444620e272084b1e63dd1b7d60ecba9f758"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "f92df20fbe139b8b16deb55b9ee1b2be4d35468d723cd0ed83b605fd62cbd276"
 metafile = true
