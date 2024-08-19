@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/spells_and_shields/client.toml"
-hash = "f5f7225c4b57bee7e77211ad87f429e67bedf8df13dd143d1862d6bddfe1b6de"
+hash = "38ea0164c5e9348d1f8d1a12781a98f976b2650ac456c760ae6c130eb86fe76d"
 
 [[files]]
 file = "config/wizards_reborn-client.toml"

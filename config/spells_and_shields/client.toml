@@ -4,7 +4,7 @@
 	#Range: 0 ~ 1200
 	hideDelay = 20
 	#Put the mana bar above the food/health bar (true) or else put it below (false).
-	guiAboveFood = true
+	guiAboveFood = false
 	#Put the mana bar next to the health bar (true) or else leave it next to the food bar (false).
 	guiByHealth = true
 	#The mana bar icons jitter when your current mana is low (true) or else the icons always stay put (false).
@@ -13,7 +13,7 @@
 #Everything about the gui widgets representing your spell slots (equipped spells)
 [spellSlots]
 	#Always show all spell slots (true) or else only show them if at least 1 spell is equipped (false).
-	alwaysShow = true
+	alwaysShow = false
 
 	#The position to put the spell slots in the survival inventory gui.
 	[spellSlots.survival]
