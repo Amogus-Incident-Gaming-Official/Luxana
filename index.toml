@@ -49,6 +49,18 @@ file = "defaultconfigs/mahoutsukai-server.toml"
 hash = "a306614469d313a6b00da46b3857e444620e272084b1e63dd1b7d60ecba9f758"
 
 [[files]]
+file = "kubejs/server_scripts/advancement_removal.js"
+hash = "51ab2d4c2fb0515b9022b23bae5c3ebca071b165d7c49396a8512d92f1fa2e63"
+
+[[files]]
+file = "kubejs/server_scripts/origin_command.js"
+hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
+
+[[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "7d9888abb738db2986e578d10bc9965e33f13d4c445c192dd3e062ac3e463cf7"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "f92df20fbe139b8b16deb55b9ee1b2be4d35468d723cd0ed83b605fd62cbd276"
 metafile = true
