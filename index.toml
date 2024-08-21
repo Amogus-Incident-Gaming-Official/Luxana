@@ -9,6 +9,16 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/paxi/datapacks/blissful-origins.pw.toml"
+hash = "20835d3b744d8008a80b0b1fe53864c39b90973bb83a5d82e9024b3d5b43e209"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/rustrework.pw.toml"
+hash = "bb584bac73eebab11e52a8bfd4bb5c87d2ee3d609be3da65d11581cf4d53815e"
+metafile = true
+
+[[files]]
 file = "config/spells_and_shields/client.toml"
 hash = "38ea0164c5e9348d1f8d1a12781a98f976b2650ac456c760ae6c130eb86fe76d"
 

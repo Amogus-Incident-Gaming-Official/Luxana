@@ -1,0 +1,13 @@
+name = "Blissful Origin Layer"
+filename = "Bliss 1.4.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LmHFx9nq/versions/1tUAc9Un/Bliss%201.4.5.zip"
+hash-format = "sha1"
+hash = "abbe2c6a54870412c53d3c0c1e063640fb34fd80"
+
+[update]
+[update.modrinth]
+mod-id = "LmHFx9nq"
+version = "1tUAc9Un"
