@@ -17,6 +17,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/gra
 hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
+hash = "e597b8a712232c2dcc0e58c1dffa900f655788dce12a264a260cf294348e6d68"
+
+[[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
 hash = "20835d3b744d8008a80b0b1fe53864c39b90973bb83a5d82e9024b3d5b43e209"
 metafile = true
