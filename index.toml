@@ -341,8 +341,16 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "32abce0bd8fabd550a0e63b78cc00a3a6a176ad951fae4c7c883f0aae6a95bb4"
+
+[[files]]
 file = "config/guideapi_vp-common.toml"
 hash = "07e207aa3743ee50475ff97b0f76e14512780c6fbc491375782b2bff5aa764fc"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "425c9f61886a94bc6909517d0d21a0a173cfa1be1b2b8b932dbea03c212136f7"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
@@ -413,6 +421,10 @@ hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
 hash = "a33d42ce9b872b31d0fd0e77ee2c533e5fa9dfb223d0e2d6bddd09a3d1be0b57"
+
+[[files]]
+file = "mods/Moonrise-NeoForge-0.1.0-SNAPSHOT+03a3f72.jar"
+hash = "af4887964927496ddb5236f36ccc7d085f24104a686dbad420d73934ffe37243"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
