@@ -1502,6 +1502,11 @@ hash = "2ad03fd527b04224d4191358c4d68c5ac24a54a1c585f2db87bb164c5b96540b"
 metafile = true
 
 [[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "332551c0553fa7589f8324aaba183510c8ebdd5ac2823f71cfb753908a228afe"
+metafile = true
+
+[[files]]
 file = "mods/vampirism.pw.toml"
 hash = "7f84bfdc3145ab1ac199aaddb9edb35a0c294fe491e1f5bf85e7401c283c795f"
 metafile = true
