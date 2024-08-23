@@ -847,11 +847,6 @@ hash = "f508f45d74844d96e889411f07e3d5d4c8080dca2e1c75c446432d93f7b65bf4"
 metafile = true
 
 [[files]]
-file = "mods/mana-and-artifice.pw.toml"
-hash = "3dede8d8dc9513b16ea0effc7082cb21fe0cff6f5db65f8b549b5d0cedb26e89"
-metafile = true
-
-[[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "5b99ac85876e146d13a4efd1d9ea245d0768ba17d5804cd3d401210a8d44b907"
 metafile = true
