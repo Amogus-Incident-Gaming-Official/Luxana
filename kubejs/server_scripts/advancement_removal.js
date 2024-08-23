@@ -24,7 +24,6 @@ function removeAdvancement(advancementFilePath) {
 }
 
 removeAdvancement([
-    'irons_spellbooks:grant_patchouli',
     'hexcasting:advancements/grant_patchi_book',
 ])
 
