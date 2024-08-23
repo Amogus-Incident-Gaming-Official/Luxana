@@ -173,11 +173,6 @@ hash = "c443c44ce7cbc0815b482a924d9ce7b60829f15c0004a7feea942290dd395558"
 metafile = true
 
 [[files]]
-file = "mods/asoteria.pw.toml"
-hash = "b7fc8cb57027865d74abd3d6b7fa7704637c9150cc6471b0be3b346d5a66d375"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
