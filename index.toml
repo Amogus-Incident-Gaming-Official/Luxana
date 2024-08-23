@@ -9,6 +9,10 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
+
+[[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
 hash = "20835d3b744d8008a80b0b1fe53864c39b90973bb83a5d82e9024b3d5b43e209"
 metafile = true
@@ -68,7 +72,7 @@ hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "7d9888abb738db2986e578d10bc9965e33f13d4c445c192dd3e062ac3e463cf7"
+hash = "a33d42ce9b872b31d0fd0e77ee2c533e5fa9dfb223d0e2d6bddd09a3d1be0b57"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
