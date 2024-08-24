@@ -353,6 +353,10 @@ file = "config/modernfix-mixins.properties"
 hash = "425c9f61886a94bc6909517d0d21a0a173cfa1be1b2b8b932dbea03c212136f7"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Origins 1.8.9.zip"
+hash = "37e775748ca9154be3fda35cec030dedd5e687a9ba03bd3c9fc07ae2b6f50e28"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/bloodmagic/weapon_attributes/daggerofsacrifice.json"
 hash = "3958b89a2fd9cd0f6a897543b5daa489e48b518e4470fc3e5e95e31d10701142"
 
@@ -435,6 +439,10 @@ hash = "e6a2964d012440505a6901c008b99ec9f89d8ae62324b88d591c96b5f1b4562e"
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
 hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
+
+[[files]]
+file = "config/paxi/datapacks/Miasmatic 1.0.2.zip"
+hash = "464365bfad263da90ef50ced20c145934eb490d8bd30b3f920a463dcbfebfcda"
 
 [[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
