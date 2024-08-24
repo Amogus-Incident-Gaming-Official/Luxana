@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "Currently removes the Iron's Spells guidebook from the starting inventory."
+    "description": "Currently removes the Iron's Spells guidebook from the starting inventory, as well as some BetterCombat compatibility."
   }
 }
