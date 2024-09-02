@@ -9,6 +9,114 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/ars_elemental/glyph_aerial_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_aquatic_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_arc_projectile.toml"
+hash = "2936a2acfa92d67e5e5bc7f0fbc4a7d6278b872e17e919777a01f055fd64efd1"
+
+[[files]]
+file = "config/ars_elemental/glyph_bubble_shield.toml"
+hash = "6a82d0871294965b37ce95eb9d1d261bf60941f2e43c6dbfbeba7cccae0ae244"
+
+[[files]]
+file = "config/ars_elemental/glyph_charm.toml"
+hash = "be624c15e8e96b3ef03b28789c29a10b1cf807b8de3b32939d505f435ed99bb7"
+
+[[files]]
+file = "config/ars_elemental/glyph_conjure_terrain.toml"
+hash = "851b3b13af08760619433c068b54a898653cdf0ad9be9cb0948da1793ec506ec"
+
+[[files]]
+file = "config/ars_elemental/glyph_discharge.toml"
+hash = "9d9194cf2f7f3f7917b37487beec54594de1efb6ba760c2d2398a6a0a003c2a7"
+
+[[files]]
+file = "config/ars_elemental/glyph_envenom.toml"
+hash = "6e17b0fb2adc3e8fd58ce51dccc5418ad44cad71afa3225a6057ca9d9f9f6fed"
+
+[[files]]
+file = "config/ars_elemental/glyph_fiery_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_homing_projectile.toml"
+hash = "81afebad66dcb8d0563d4d11c9e91bbf8af26f0e84dd8849613c206cb71c2a1e"
+
+[[files]]
+file = "config/ars_elemental/glyph_insect_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_life_link.toml"
+hash = "be911ca90e6dfffef4a2e33a65f1fb6184b3a0ec06aa1cbfd42d311c1aa71f67"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_aerial_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_aquatic_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_fiery_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_insect_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_summon_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_not_undead_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_phantom_grasp.toml"
+hash = "1e422d3ab2f0ba0b150e662dcd4b15c62d8a29a107a5a0771d7cb056cf972010"
+
+[[files]]
+file = "config/ars_elemental/glyph_poison_spores.toml"
+hash = "9a4c552e5b8e71602995667b933058bebc0c3b714beac20466a2706f84034719"
+
+[[files]]
+file = "config/ars_elemental/glyph_propagator_arc.toml"
+hash = "8c779d1dbc1026d2b7884b53ef33e9bf2d3b34db57a952441f30d053861f6e5c"
+
+[[files]]
+file = "config/ars_elemental/glyph_propagator_homing.toml"
+hash = "209cfaa9866d6cd84ec4a3c0059b32be23c485c5aa092b11bb0e2ab044d6b116"
+
+[[files]]
+file = "config/ars_elemental/glyph_spark.toml"
+hash = "a1d3078bc5b4eaab4468ce422d622ac9b37e40dea73d4d57f206b8b51ad623a2"
+
+[[files]]
+file = "config/ars_elemental/glyph_spike.toml"
+hash = "2ed55ab427d19dd6dc6b22dc17e3112b99f5efb1e6fa57f57b1510bc0ba37b6b"
+
+[[files]]
+file = "config/ars_elemental/glyph_summon_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_undead_filter.toml"
+hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
+
+[[files]]
+file = "config/ars_elemental/glyph_watery_grave.toml"
+hash = "a3dcb4a35930fa37b85392040d2d81b0d78b15ab77150ca20329dbd58801a405"
+
+[[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
 
@@ -955,22 +1063,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cd9104745e733e2f61c2de7639f1041017cf22af56d9f27994553ffb4e48b4d9"
+hash = "d4d235a26dd8b79138bdff6b621c8555b260d26b0397b05905bcc1e18b0c4954"
 metafile = true
 
 [[files]]
 file = "mods/emienchants.pw.toml"
-hash = "73ea8b5d2b98240dc86c959590815d86bcd0ba9ad85f2cf938555e82c7ffd545"
+hash = "cac557d052f05c3558f19b47313f787c1d51a6326f1b4e8e8eee3c6f10f068f3"
 metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
+hash = "4669713a422d7207ec522f5b4077605d104aeda82ad11c746669c396f3e1f152"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+hash = "4d56498d822f43503545ce5f80318a61e1479403b5b2b178c50dd4afadd879c6"
 metafile = true
 
 [[files]]
