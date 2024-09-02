@@ -1,17 +1,18 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
+filename = "DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar"
 hash-format = "sha1"
-hash = "7763ed4bcdffa29c71f7b1b323ed513c687488cc"
+hash = "56117d011bc5892dea3921676d0c981d66ed83ed"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "HH9YLh1q"
+version = "OwcStAhe"
 
 [option]
 optional = true
 description = "Distant Horizons adds greatly increased render distances by adding LOD (Levels of Detail) to Minecraft. Essentially, it renders simplified terrain beyond your actual render distance. It disables fog effects, so using it with Fog is unnecessary."
+default = false

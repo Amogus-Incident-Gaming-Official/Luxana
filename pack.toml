@@ -1,15 +1,15 @@
 name = "Luxana"
-author = "verbina29, AIGO Team"
-version = "1.2"
+author = "verbina29"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fef9d461a3ed393c933f66060e480d326d03044882c8059aea1f580db895135f"
+hash = "4f540c954bf0b16767ad852e1dbdb6c0d87af151176328ffb4dc3e6ae43dfe7a"
 
 [versions]
-forge = "47.3.7"
+forge = "47.3.6"
 minecraft = "1.20.1"
 
 [options]

@@ -1,17 +1,19 @@
 name = "Fog"
-filename = "Fog-forge-1.4.0-1.20.1.jar"
+filename = "Fog-forge-1.3.1-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/2WhIZNcd/Fog-forge-1.4.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/Rt8bn1jX/Fog-forge-1.3.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "dc4dc69a2813bed70102ad7186f15d8905643561"
+hash = "f2c48e855a7d997a1b8e24c47a80589bc485c075"
 
 [update]
 [update.modrinth]
 mod-id = "WuGVWUF2"
-version = "2WhIZNcd"
+version = "Rt8bn1jX"
 
 [option]
 optional = true
 description = "Fog provides better fog. Distant Horizons seems to disable fog effects. Currently has a bug where it crashes on opening the config menu."
+default = false
+

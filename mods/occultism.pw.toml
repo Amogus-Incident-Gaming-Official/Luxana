@@ -1,13 +1,13 @@
 name = "Occultism"
-filename = "occultism-1.20.1-1.137.1.jar"
+filename = "occultism-1.20.1-1.136.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/zzB3y40z/occultism-1.20.1-1.137.1.jar"
+url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/vj0mTfCU/occultism-1.20.1-1.136.1.jar"
 hash-format = "sha1"
-hash = "3d861cf8a2a838add1b812422b15a8d39998843a"
+hash = "588515f6ae41c4ff8a3f9d9f38136c9243f259b0"
 
 [update]
 [update.modrinth]
 mod-id = "sbJh4AZw"
-version = "zzB3y40z"
+version = "vj0mTfCU"
