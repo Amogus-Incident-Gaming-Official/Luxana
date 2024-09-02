@@ -634,6 +634,11 @@ hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "9397a575c880672af677b077589f5c754fa084d4ed89dec6bf365a9d9168b8ac"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "6aae8979aba734f803c3811e154f2ecbbdce88dfe6bb8a84b07ab864a7fd837d"
 metafile = true
