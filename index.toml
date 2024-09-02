@@ -701,6 +701,11 @@ hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
 metafile = true
 
 [[files]]
+file = "mods/clifftree.pw.toml"
+hash = "6d3cee01c1409125e03d48294995572e4784b195b4b9e94c47df0179de1d7fd6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -1239,6 +1244,11 @@ hash = "e0b3868f01ac63c79a851f6a89bb6f8e763c6fac5ceeb0f63373f1400acb5ca4"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "c2b67fa89d8f9b24bbc35079d1759aa43213904a8b558e10090115fc4b464b8c"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
 metafile = true
@@ -1251,6 +1261,11 @@ metafile = true
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "f508f45d74844d96e889411f07e3d5d4c8080dca2e1c75c446432d93f7b65bf4"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "8243e987ca59556c3a958b3ad8f343166cf84f98501b14ed5e3694695d2474d9"
 metafile = true
 
 [[files]]
@@ -1534,6 +1549,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "312dd0a41c77cbdda54569478deec2c506a763ece667e01d95d069e9550dc2e8"
 metafile = true
 
 [[files]]
