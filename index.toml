@@ -1037,8 +1037,8 @@ hash = "df93ac5b6418fc103d6298f3769fa493de2b36ba43b2ee8f832ab896d4c3d10a"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "a0c86423073eeea3231cfc31b6b53f7e30c55a3332f3b7151dac9fe00213e78f"
+file = "mods/effortless.pw.toml"
+hash = "a5fcb0469aa954bf71ec42c04c364fd28de48359206a899b48e48123bfa21e70"
 metafile = true
 
 [[files]]
