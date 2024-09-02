@@ -531,11 +531,6 @@ hash = "90e6b6e0c2870e0fa874e41ccab0576a40bfa3604e45dfcbafb46fd96347c0bf"
 metafile = true
 
 [[files]]
-file = "mods/alekiships.pw.toml"
-hash = "11171584cf9dc17e280e5b53320b9d39fa3dc23b2cf737d77e0ccb78b9c6dcc7"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
 metafile = true
@@ -643,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
-metafile = true
-
-[[files]]
-file = "mods/biomancy.pw.toml"
-hash = "4507e9a827a9f973487d67b679447cea30ef179e090ae27c6a4f2a56da0117a7"
 metafile = true
 
 [[files]]
@@ -1096,16 +1086,6 @@ hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
-metafile = true
-
-[[files]]
-file = "mods/heartstone.pw.toml"
-hash = "48259ca967372079e53a4144b5b96d6ffdd47e3142802663f42eb661df50e9e0"
-metafile = true
-
-[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "5634554cb7a68b6a456822b2fa4a1e54192c498c3b313291af0b190ea29b2e8e"
 
@@ -1237,22 +1217,6 @@ metafile = true
 file = "mods/lets-do-vinery.pw.toml"
 hash = "e03d8beb88b37e5978251a25d9f2c6275fa38ba9297795da8d47ec2a963cbc93"
 metafile = true
-
-[[files]]
-file = "mods/letsdo-bakery-forge-2.0.0.jar"
-hash = "66d008845dfff3a8fb55e1b0f7559a1042fbcc58f3b3a06bc13e34543e03d512"
-
-[[files]]
-file = "mods/letsdo-brewery-forge-2.0.1.jar"
-hash = "a819937cbfe4321b622696ef8e928a9ed5fc18c2c99afe0a902674b533f9b9ca"
-
-[[files]]
-file = "mods/letsdo-candlelight-forge-2.0.1.jar"
-hash = "c8bf6164ccda58d8929cc01f05b833003e23040fcbf131d0204de66f1a812201"
-
-[[files]]
-file = "mods/letsdo-farm_and_charm-forge-1.0.1.jar"
-hash = "58df0cbbd47e9c58a9f717c03f14709f5c1e9d7d1b5801d78ec534b68d88ccf5"
 
 [[files]]
 file = "mods/libipn.pw.toml"
