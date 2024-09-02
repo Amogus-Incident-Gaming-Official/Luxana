@@ -1,13 +1,13 @@
 name = "Truly Modular: Modular Item API"
-filename = "Truly-Modular-miapi-forge-1.1.28-1.20.1.jar"
+filename = "Truly-Modular-miapi-forge-1.1.29-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c4Uf1TKc/versions/iCqOZJW6/Truly-Modular-miapi-forge-1.1.28-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/c4Uf1TKc/versions/eioVPiif/Truly-Modular-miapi-forge-1.1.29-1.20.1.jar"
 hash-format = "sha1"
-hash = "ee1197f91781f61eeee28df0aa4c2223cad6002b"
+hash = "3d81c0fa915e3d1ff18adf1d3c3b2f87f9c9df54"
 
 [update]
 [update.modrinth]
 mod-id = "c4Uf1TKc"
-version = "iCqOZJW6"
+version = "eioVPiif"
