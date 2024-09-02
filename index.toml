@@ -1242,6 +1242,21 @@ hash = "31b19d0e1fcd950730b72794d65cc8c6a4a88f997af38f2269597a7348133e58"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "47f71537410e0ee9853aff388876e9cb574889ebf69d06ed859c8ecbd45516c4"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "4a6c16c571c11b1a6611e660ec6b7096383c712cac092bb9aeb7bdd37a8b6b0e"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "fa8dfeb5656be7d40e97883f5a903edd6865564f2cb3b8ab9fc0046e4f6c430f"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-emi-compat.pw.toml"
 hash = "de2fe064a335d4209ef728b1452bb4cf019be3150017d45a3b94946ee90efe55"
 metafile = true
