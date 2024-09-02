@@ -11,3 +11,8 @@ hash = "a762942031a31142ea3682d44063a4f9e8f1eee6"
 [update.modrinth]
 mod-id = "aXReRvgU"
 version = "mhWe3rxI"
+
+[option]
+optional = true
+description = "A simple mod that disables right-click remapping on macOS."
+default = false
