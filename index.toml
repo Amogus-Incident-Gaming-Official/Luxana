@@ -632,11 +632,11 @@ hash = "b04e92075079ed1c8de41086fe4aeec425a585a711ffc1ced4b24f4f74ee12bc"
 
 [[files]]
 file = "configureddefaults/config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "7dcf3b49bc0b8c76695e16297a3708bfd9f7c8eb030aeb5c74b1949b3b94cd99"
+hash = "c597cfba3faac6bca8d3ad9cb21b4962e5327a0f1e770f50f119839246e8f952"
 
 [[files]]
 file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "576ee8c2bc9dd1b12ccc9ffd0f00a7582cdc52347c135dc363fd7ce2a6ac531a"
+hash = "aa87f8fe4b9359771a00fcb2e37c775d06991ceb6237b13c8f397204e1d154fd"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
@@ -1029,6 +1029,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "0bfa93d487f91b526d83622245091b3fec1d27c1b5b241b75bb26ea8e04806a8"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "332e62b82e074e65b260dc2d72a611a7a1f1d564b1629234ddc099e56f6c1612"
 metafile = true
 
 [[files]]
@@ -1680,6 +1685,16 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "2170ed9eb7672fc517075c2259dc7ff8e9501c167f4083a30be162c8873b32c4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "d47cf8902495273ee0a9223ee33f0dacf8a43667f6026d92af0186d5bac1b563"
 metafile = true
 
 [[files]]

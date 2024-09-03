@@ -10,5 +10,39 @@
                 "top": 120
             }
         }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 308,
+                "top": 179
+            },
+            "SETTINGS": {
+                "horizontalOffset": 308,
+                "top": 152
+            }
+        }
+    },
+    "de.teamlapen.vampirism.client.gui.screens.VampirismContainerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 57
+            },
+            "SORT": {
+                "horizontalOffset": -36,
+                "top": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24,
+                "top": 24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -12,
+                "top": 36
+            }
+        }
     }
 }
