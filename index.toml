@@ -449,6 +449,10 @@ file = "config/ars_nouveau/wololo.toml"
 hash = "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458"
 
 [[files]]
+file = "config/dimdoors-config.json5"
+hash = "bc16977ac29779397b6edfb527ba4bcae8805d417d07edc52cab3888664b2176"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "32abce0bd8fabd550a0e63b78cc00a3a6a176ad951fae4c7c883f0aae6a95bb4"
 
