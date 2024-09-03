@@ -465,8 +465,8 @@ file = "config/modernfix-mixins.properties"
 hash = "425c9f61886a94bc6909517d0d21a0a173cfa1be1b2b8b932dbea03c212136f7"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 1.8.9.zip"
-hash = "37e775748ca9154be3fda35cec030dedd5e687a9ba03bd3c9fc07ae2b6f50e28"
+file = "config/paxi/datapacks/AIGO Origins 1.9.1.zip"
+hash = "9484cadcf7c8c5baff1d4e874307f46ff816f61249c386597d4aef1d6e2dbc8e"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/bloodmagic/weapon_attributes/daggerofsacrifice.json"
