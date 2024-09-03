@@ -1423,6 +1423,11 @@ hash = "c2b67fa89d8f9b24bbc35079d1759aa43213904a8b558e10090115fc4b464b8c"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "da63657599461e9c8141f45042bf1423aa96f80e9dca9260992bcc5871e6daaf"
 metafile = true
@@ -1450,11 +1455,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
-metafile = true
-
-[[files]]
-file = "mods/micles-login-protection.pw.toml"
-hash = "2a21d980bc02a10145bab052a6ad19593ada79c8852adc488b8348c4c1ce25d4"
 metafile = true
 
 [[files]]
