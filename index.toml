@@ -473,6 +473,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/embers/weapon_attributes/tyrfing.
 hash = "bedf515c3d3abde58e36ecce4f1632b28be88b9b799a6156961dc47dd6f627e9"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/embers/worldgen/placed_feature/ore_silver_placer.json"
+hash = "f8e6f686c1fdc23b219a1b0a6d0acd8ef6c0c6dd3fc4ffbae95e45a91add15a2"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
 hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
 
@@ -613,6 +617,10 @@ hash = "42bb87b9f09ee070c6fcb67bb51349ddf0135270b1f793c9992743b16a431e25"
 [[files]]
 file = "config/spells_and_shields/client.toml"
 hash = "38ea0164c5e9348d1f8d1a12781a98f976b2650ac456c760ae6c130eb86fe76d"
+
+[[files]]
+file = "config/werewolves-common.toml"
+hash = "e4693ad9a6b7de1735dcd01ca72971ed764a08fea3b66a2a9e8d158f1e14599a"
 
 [[files]]
 file = "config/wizards_reborn-client.toml"

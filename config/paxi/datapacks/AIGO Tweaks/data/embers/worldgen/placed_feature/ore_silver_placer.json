@@ -1,0 +1,18 @@
+{
+  "feature": "embers:ore_silver",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 0
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:constant",
+        "value": {
+          "below_top": -64
+        }
+      }
+    }
+  ]
+}
