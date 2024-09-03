@@ -1445,6 +1445,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/micles-login-protection.pw.toml"
+hash = "2a21d980bc02a10145bab052a6ad19593ada79c8852adc488b8348c4c1ce25d4"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "176f3d74e415b3a43c6e6bb4f0cecd2efd42587443e9d23b80bc6f6f01dc181f"
 metafile = true
