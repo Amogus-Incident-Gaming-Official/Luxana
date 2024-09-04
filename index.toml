@@ -1145,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
@@ -1756,7 +1756,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
@@ -1776,22 +1776,22 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "a769724c838ed7e102bae86a2d8915e780cfd266d1a4eaff580423f38561fd23"
+hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "f0ef9205c0975599f7464fd569dafec37a4a28c6bdf4c261922ca55ff49fb668"
+hash = "9d0aa3b51a3365e6b366d21a0e919f85ac33fdbb0f879e799e22a59d1287cb58"
 metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "daed9683c0fb1d9086f2ebb104dd208b8efc5733fc08949f2ba329ea128e724f"
+hash = "2565eba14e887a66cd6688e5078de5554ad6ac0a4f6a83724b94aa21a849924f"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "a09042debda0146f9f2b186df69789028378d81b0b9952576205d1620afc2d28"
+hash = "48f002555a30a5508eef4d52e0768a93f0322099bdaec30fc7146b998295c88b"
 metafile = true
 
 [[files]]
