@@ -914,6 +914,11 @@ hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -1139,6 +1144,11 @@ hash = "5814e323ba3c6b98725bf1545844dcea2be9063fe514d1f604a1bd7fdd230daa"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-quark.pw.toml"
 hash = "109dfb186a9b1a57291c0caf531b461aa4c30f030f49d7eb2987e272b525769a"
 metafile = true
@@ -1191,6 +1201,11 @@ metafile = true
 [[files]]
 file = "mods/forgematica.pw.toml"
 hash = "087576394d08fae9d93bc1ba477caa54b735917bea0572d77072c338defcac93"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
 metafile = true
 
 [[files]]
@@ -1571,6 +1586,11 @@ hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -1735,6 +1755,11 @@ hash = "4f67d10a4365119f8e5c83c1fccf3de8af77dff98d9c4b5f4d04c560a031b5a5"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -1747,6 +1772,26 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "a769724c838ed7e102bae86a2d8915e780cfd266d1a4eaff580423f38561fd23"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "f0ef9205c0975599f7464fd569dafec37a4a28c6bdf4c261922ca55ff49fb668"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "daed9683c0fb1d9086f2ebb104dd208b8efc5733fc08949f2ba329ea128e724f"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "a09042debda0146f9f2b186df69789028378d81b0b9952576205d1620afc2d28"
 metafile = true
 
 [[files]]
