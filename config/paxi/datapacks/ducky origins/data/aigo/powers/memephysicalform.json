@@ -1,0 +1,16 @@
+{
+    "name": "Entity of Thought",
+    
+    "description": "You are an entity born of thought, bereft of a physical form. Use this ability to briefly attain physical form. You can only do this while you could sprint",
+    "type":"origins:toggle",
+    "condition": {
+        "type": "apoli:food_level",
+    	"comparison": ">",
+    	"compare_to": 6
+    },
+    "key": {
+    	"key": "key.origins.primary_active",
+    	"continuous": false
+    },
+    "retain_state": false
+}

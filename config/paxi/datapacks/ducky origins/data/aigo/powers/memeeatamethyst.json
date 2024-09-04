@@ -1,0 +1,49 @@
+{
+    "name": "Amethyst Affinity",
+    "description": "You can gain energy from the thought energy stored within amethysts.",
+    "type": "origins:multiple",
+    "dust": {
+        "type": "apugli:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "hexcasting:amethyst_dust"
+            }
+        },
+        "food_component": {
+            "hunger": 4,
+            "saturation": 2.4
+        },
+        "use_action": "eat"
+    },
+    "shard": {
+        "type": "apugli:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:amethyst_shard"
+            }
+        },
+        "food_component": {
+            "hunger": 4,
+            "saturation": 14.4,
+            "always_edible": true
+        },
+        "use_action": "eat"
+    },
+    "charged": {
+        "type": "apugli:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "hexcasting:charged_amethyst"
+            }
+        },
+        "food_component": {
+            "hunger": 10,
+            "saturation": 12,
+            "always_edible": true
+        },
+        "use_action": "eat"
+    }
+}

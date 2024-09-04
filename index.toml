@@ -566,6 +566,66 @@ hash = "20835d3b744d8008a80b0b1fe53864c39b90973bb83a5d82e9024b3d5b43e209"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/origins/memeticentity.json"
+hash = "7dfbef115b94716c7af58f25e652edb89753780ebb3ba5e8fabd30ebfed1a15e"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memeastralhunger.json"
+hash = "07ea30938458faaba8e6fb5bb200b9f4fd52ed748d4f906fe9c8f0597ef99b92"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memeastralnoclip.json"
+hash = "f25ba123618ca17b158dcabda3c022e506154fa5353d2d7dc612de4a090c12f7"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memeeatamethyst.json"
+hash = "9b2e6659cf786787eebf27f11572412c0b2735faa522727a8d9b01ec11846b5c"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenightvision.json"
+hash = "216d9755a3e14340b4aeb3f25dade6c5f2d09627d5d64dabdecabb701920471d"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenobody.json"
+hash = "33323d50c5c112156cfa99372a883256134ab282d598d390a5ff494a9612180b"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenobreak.json"
+hash = "65e662fc10144458da2fe12732605233c038810afb8e464a82c666db2a5feb1b"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenodamage.json"
+hash = "2649b25d156389aa4ea70ec7d039a481919f5e5f5829bf0eb405aa48049c1c17"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenointeract.json"
+hash = "6fb2f246b766e9de0082f19e79f2c6936c24e30f871744e76a35a728220a879e"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenoplace.json"
+hash = "7ceb39e5a3821e7daa44056d2fe3da35b64a2d60cfde4a087051c4eefefc521a"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memephysicalform.json"
+hash = "7aa18b4aa0d79cacd9532daf00268a73aa2ecd025458ba01fe0c6796361b5d9a"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memephysicalnoeat.json"
+hash = "87626570c00936ad7f325f85feac6ca4cd78c95811c199ffebf589585aaae829"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memephysicalsickness.json"
+hash = "5aa3b2f42e70488de942cd7ce6ba101ca1b7d97e1e105f5280c04504aae10d24"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/origins/origin_layers/origin.json"
+hash = "5fd62c0ca32ed442884186d2b1fcb2178152ad891f894c8b1a82a25bf2d1fd5b"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/pack.mcmeta"
+hash = "4751369244095f528224b2fd3694decbe74ec5990c2400ed4fe42cfc12d6a0a9"
+
+[[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"
 hash = "bb584bac73eebab11e52a8bfd4bb5c87d2ee3d609be3da65d11581cf4d53815e"
 metafile = true

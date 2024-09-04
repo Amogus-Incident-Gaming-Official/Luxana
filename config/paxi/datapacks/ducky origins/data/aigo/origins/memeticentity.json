@@ -1,0 +1,23 @@
+{
+    "name": "Memetic Entity",
+    "description": "You are a thought given sentience, with the limited power to assume a physical form. You are unrestrained by physical woes while in the incorporeal thought form, but to interact with the world around you, you must assume physical form, quickly sapping your energy",
+    "powers": [
+        "aigo:memephysicalform",
+        "aigo:memeastralnoclip",
+        "aigo:memeastralhunger",
+        "aigo:memenightvision",
+        "aigo:memenobody",
+        "aigo:memenobreak",
+        "aigo:memenoplace",
+        "aigo:memenointeract",
+        "aigo:memenodamage",
+        "aigo:memephysicalsickness",
+        "aigo:memephysicalnoeat",
+        "aigo:memeeatamethyst"
+    ],
+    "icon": {
+        "item": "amethyst_shard",
+        "amount": 1
+    },
+    "impact": 3
+}

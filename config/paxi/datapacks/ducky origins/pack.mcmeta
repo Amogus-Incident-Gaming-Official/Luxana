@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "name": "ducky Origins",
+        "id": "aigo",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "duckycrater",
+	    "verbina(I copy and pasted a good bit of it)"
+                    ],
+        "description": "A single Origin for AIGO's modpacks, featuring Origin thought up by the dumb duck."
+    }
+}
