@@ -1,0 +1,10 @@
+{
+    "name": "Devoid of Interaction",
+    "description": "You do not have a physical body while in thought form. This makes you unable to interact with entities.",
+  "type": "origins:prevent_entity_use",
+   "condition": {
+     "type": "origins:power_active",
+     "power": "aigo:memephysicalform",
+     "inverted": true
+    }
+}

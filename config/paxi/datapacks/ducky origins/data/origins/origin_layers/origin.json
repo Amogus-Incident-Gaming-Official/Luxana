@@ -1,0 +1,11 @@
+{
+    "origins": [
+	"aigo:memeticentity",
+        "aigo:stridark",
+        "aigo:demonkin",
+        "aigo:fops",
+        "aigo:fey",
+        "aigo:abysstouched"
+    ],
+    "enabled": true
+}

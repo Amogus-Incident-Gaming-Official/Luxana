@@ -1,0 +1,12 @@
+{
+    "name": "Alien to Food",
+    "description": "You are not used to having a physical form. While in a physical form, you cannot eat.",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:food"
+    },
+    "condition": {
+    "type": "origins:power_active",
+    "power": "aigo:memephysicalform"
+    }
+}

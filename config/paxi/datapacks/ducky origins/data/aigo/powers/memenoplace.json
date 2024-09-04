@@ -1,0 +1,15 @@
+{
+    "name": "Devoid of Creation",
+    "description": "You do not have a physical body while in thought form. This makes you unable to place blocks.",
+    "type": "origins:prevent_block_selection",
+    "block_condition": {
+      "type": "origins:in_tag",
+      "tag": "origins:block_entity",
+      "inverted": true
+    },
+    "condition": {
+      "type": "origins:power_active",
+      "power": "aigo:memephysicalform",
+      "inverted": true
+    }
+}
