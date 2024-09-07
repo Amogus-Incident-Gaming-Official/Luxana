@@ -1552,11 +1552,6 @@ hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
 
 [[files]]
-file = "mods/mob-cap-booster.pw.toml"
-hash = "ef781cedb18462bea0ed7501c065e09680a175979101f9c574f03b972b3b7229"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ed8710015d6f9b29b47b1434262d9d216b058c390773085484413f8ccf6c85cb"
 metafile = true
