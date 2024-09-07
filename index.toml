@@ -461,6 +461,10 @@ file = "config/guideapi_vp-common.toml"
 hash = "07e207aa3743ee50475ff97b0f76e14512780c6fbc491375782b2bff5aa764fc"
 
 [[files]]
+file = "config/increasemobcap-common.toml"
+hash = "5dea44e2defe3c076c6e8b07e028a38d8f342f5d2ac5af8e2e80ef781daa4ef3"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "425c9f61886a94bc6909517d0d21a0a173cfa1be1b2b8b932dbea03c212136f7"
 
