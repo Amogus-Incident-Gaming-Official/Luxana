@@ -1,0 +1,7 @@
+{
+    "name": "Light as a Cloud",
+    "description": "Your cloudlike nature allows you to fall slower",
+    "type": "origins:modify_falling",
+    "velocity": 0.01,
+    "take_fall_damage": false
+}

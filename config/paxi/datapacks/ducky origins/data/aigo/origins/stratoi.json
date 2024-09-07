@@ -1,0 +1,20 @@
+{
+    "name": "Stratoi",
+    "description": "You are a cloud",
+    "powers": [
+        "aigo:cloudtranslucent",
+        "aigo:cloudphantom",
+        "aigo:cloudwatersickness",
+        "aigo:cloudhalfdamagetaken",
+        "aigo:cloudhalfdamagedealt",
+        "aigo:cloudnofalldamage",
+        "aigo:cloudlowhp",
+	"aigo:cloudphasing",
+	"aigo:cloudhunger"
+    ],
+    "icon": {
+        "item": "water_bucket",
+        "amount": 1
+    },
+    "impact": 2
+}

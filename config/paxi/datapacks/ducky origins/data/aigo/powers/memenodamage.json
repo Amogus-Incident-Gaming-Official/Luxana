@@ -3,7 +3,7 @@
     "description": "You do not have a physical body while in thought form. This makes you unable to damage entities.",
    "type": "origins:modify_damage_dealt",
    "modifier": {
-     "operation": "multiply_total",
+     "operation": "set_total",
      "value": 0
     },
    "condition": {

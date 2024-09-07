@@ -1,0 +1,10 @@
+{
+    "name": "Cloud's Protection",
+    "description": "Your cloudlike nature protects you, halving all damage taken",
+    "type": "origins:modify_damage_taken",
+    "modifier": {
+        
+        "operation": "multiply_base_multiplicative",
+        "value": -0.5
+    }
+}

@@ -574,8 +574,52 @@ file = "config/paxi/datapacks/ducky origins/data/aigo/origins/memeticentity.json
 hash = "7dfbef115b94716c7af58f25e652edb89753780ebb3ba5e8fabd30ebfed1a15e"
 
 [[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/origins/stratoi.json"
+hash = "51aba690efa5a4001f794a9c83a19b803446364bcc8ec1933d7ef5e6ff6c5fc0"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudcampfirefloat.json"
+hash = "defa63996b6e54e0cb8900aa8cb2a8e63b874e3a7e3347e88628d6f7e166a03b"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudhalfdamagedealt.json"
+hash = "75b56f8097689a08dc540e4e13be474b682ffa3bb7492a367944be1bb3929855"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudhalfdamagetaken.json"
+hash = "2d054c481c29b2ad9daef379e231c317c2795cfe43786ed9016bc2db9c5a141d"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudhunger.json"
+hash = "507c2b5bd68af0ebddab2242a70d279496890ca11e774d9a10e4e2ad2d72b11c"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudlowhp.json"
+hash = "8d8d7a6109ea876355d5a332b6925ce40a2bfa651efe16f74bef33e6f1720512"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudnofalldamage.json"
+hash = "c70f0bfda56d106ab819968a1153abbfd39945f33242071336d3adb378158e5d"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudphantom.json"
+hash = "05aba10797e61a0f7726e95134ff2a80e75295d0aee07b05abfcba25a06fa431"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudphasing.json"
+hash = "6eef95644b1629686ba3e88b246c4a7f335302333afeb983ca88f4e253ce6b8a"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudtranslucent.json"
+hash = "c861ac0bfb13f897b1647a442c55a55e1751bd773e5ef82c96549439ba547a8b"
+
+[[files]]
+file = "config/paxi/datapacks/ducky origins/data/aigo/powers/cloudwatersickness.json"
+hash = "e095410c3ec74b3f1f6c8d8e1e2cda7b7dc8299fda775c95330299a28262506b"
+
+[[files]]
 file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memeastralhunger.json"
-hash = "07ea30938458faaba8e6fb5bb200b9f4fd52ed748d4f906fe9c8f0597ef99b92"
+hash = "41f019b3d63cc4b6f563821ddc9af8a430899b6880c48c2a3aa49ba0cc1ff20a"
 
 [[files]]
 file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memeastralnoclip.json"
@@ -599,7 +643,7 @@ hash = "65e662fc10144458da2fe12732605233c038810afb8e464a82c666db2a5feb1b"
 
 [[files]]
 file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenodamage.json"
-hash = "2649b25d156389aa4ea70ec7d039a481919f5e5f5829bf0eb405aa48049c1c17"
+hash = "f008e73541a22259693a4742fe288dadab97df2c53fff4a469baf0a9d0cf8147"
 
 [[files]]
 file = "config/paxi/datapacks/ducky origins/data/aigo/powers/memenointeract.json"
@@ -623,11 +667,11 @@ hash = "5aa3b2f42e70488de942cd7ce6ba101ca1b7d97e1e105f5280c04504aae10d24"
 
 [[files]]
 file = "config/paxi/datapacks/ducky origins/data/origins/origin_layers/origin.json"
-hash = "5fd62c0ca32ed442884186d2b1fcb2178152ad891f894c8b1a82a25bf2d1fd5b"
+hash = "8f6bc84370978ed1ba2c97cfa8fc2665a03d2830fc258cd5d7f0135719e7edde"
 
 [[files]]
 file = "config/paxi/datapacks/ducky origins/pack.mcmeta"
-hash = "4751369244095f528224b2fd3694decbe74ec5990c2400ed4fe42cfc12d6a0a9"
+hash = "203759e6dc97341c90b08e171231b013c0649b204f770f42db40dc6fd7823e53"
 
 [[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"

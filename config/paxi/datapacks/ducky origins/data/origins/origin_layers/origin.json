@@ -1,11 +1,7 @@
 {
     "origins": [
 	"aigo:memeticentity",
-        "aigo:stridark",
-        "aigo:demonkin",
-        "aigo:fops",
-        "aigo:fey",
-        "aigo:abysstouched"
+        "aigo:stratoi"
     ],
     "enabled": true
 }

@@ -1,0 +1,18 @@
+{
+    "name": "Cloud No Go Low",
+    "description": "Your cloudlike nature makes you half hp when below y=100",
+    "type": "origins:modify_attribute",
+    "attribute": "minecraft:generic.max_health",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.5
+    },
+    "condition": {
+    "type": "origins:in_block",
+    "block_condition": {
+        "type": "origins:height",
+    	"comparison": "<=",
+    	"compare_to": 100
+    }
+}
+}

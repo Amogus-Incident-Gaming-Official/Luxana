@@ -1,0 +1,12 @@
+{
+    "name": "Cloud Hunger",
+    "description": "You are hungry when in cloudform(phantomform).",
+    "type": "origins:exhaust",
+  "interval": 20,
+  "exhaustion": 0.812,
+    "condition": {
+      "type": "origins:power_active",
+      "power": "aigo:cloudphantom"
+    }
+   
+}

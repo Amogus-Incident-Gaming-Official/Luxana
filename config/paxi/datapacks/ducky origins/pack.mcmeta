@@ -3,11 +3,12 @@
         "name": "ducky Origins",
         "id": "aigo",
         "pack_format": 15,
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
             "duckycrater",
+	    "Testy(stratoi)",
 	    "verbina(I copy and pasted a good bit of it)"
                     ],
-        "description": "A single Origin for AIGO's modpacks, featuring Origin thought up by the dumb duck."
+        "description": "Some Origins for AIGO's modpacks, featuring Origin thought up by the dumb duck and also Testy."
     }
 }
