@@ -4,7 +4,7 @@
     "type": "origins:stacking_status_effect",
     "min_stacks": 1,
     "max_stacks": 2,
-    "duration_per_stack": 100,
+    "duration_per_stack": 300,
     "effects": {
             "effect": "minecraft:night_vision",
             "is_ambient": true,
