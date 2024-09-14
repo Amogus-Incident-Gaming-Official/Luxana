@@ -2,8 +2,8 @@
     "name": "See without eyes",
     "description": "Your senses do not rely on eyes in thoughtform, giving you night vision.",
     "type": "origins:stacking_status_effect",
-    "min_stacks": 0,
-    "max_stacks": 1,
+    "min_stacks": 1,
+    "max_stacks": 2,
     "duration_per_stack": 100,
     "effects": {
             "effect": "minecraft:night_vision",
