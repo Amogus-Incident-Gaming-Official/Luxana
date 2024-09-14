@@ -1137,11 +1137,6 @@ hash = "cf1776b8305b757a94a01e4b61e949401e0c373439eb689e031e58c894dda19b"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "b355da3d29cd2c8b22950a56a82a28e12e8503fe0a5557930cfaa39d2e5b6941"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a212283d3b2603d79d1c8dce4e940e5ee02adafcbf3160d3ae8698baefc0e4bd"
 metafile = true
