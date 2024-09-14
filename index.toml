@@ -462,7 +462,7 @@ hash = "07e207aa3743ee50475ff97b0f76e14512780c6fbc491375782b2bff5aa764fc"
 
 [[files]]
 file = "config/increasemobcap-common.toml"
-hash = "5dea44e2defe3c076c6e8b07e028a38d8f342f5d2ac5af8e2e80ef781daa4ef3"
+hash = "b13df4afc7620609fc452faf1be454f9822eaa1f09c2874910f68479f4dadf49"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1289,11 +1289,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "adb8a4df32e87b71c50ad245a2e0bf09e80fe9dd987241bbcfd82b4b90633e08"
-metafile = true
-
-[[files]]
-file = "mods/fish-of-thieves.pw.toml"
-hash = "1a8880b1693fb409d2400a53b31b3fdcbb91bd1c31db6b19c12b55faf121fd5c"
 metafile = true
 
 [[files]]
