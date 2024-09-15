@@ -780,7 +780,7 @@ hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "a33d42ce9b872b31d0fd0e77ee2c533e5fa9dfb223d0e2d6bddd09a3d1be0b57"
+hash = "a3e661c5895c2e0d52cb32282e9bc9a7dbf447404c28df3d78578253fa3990fe"
 
 [[files]]
 file = "mods/Moonrise-NeoForge-0.1.0-SNAPSHOT+03a3f72.jar"
