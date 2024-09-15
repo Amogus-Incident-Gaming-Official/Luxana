@@ -887,6 +887,11 @@ hash = "16547af18d4d618164f2aac97bf51c7aebf7fbcf948b3e0fcd18048ce718ebd1"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
