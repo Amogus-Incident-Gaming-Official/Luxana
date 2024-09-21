@@ -783,10 +783,6 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "07e62c599cd65f375510ad172ac8761d21cc0ed196c9c11bfcbca4f29a499a9a"
 
 [[files]]
-file = "mods/Moonrise-NeoForge-0.1.0-SNAPSHOT+03a3f72.jar"
-hash = "af4887964927496ddb5236f36ccc7d085f24104a686dbad420d73934ffe37243"
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "337ca607ca95b9547af58707a91f58baf61f23a14e187f3ba1437a794d5188fe"
 metafile = true
@@ -874,6 +870,11 @@ metafile = true
 [[files]]
 file = "mods/ars-ocultas.pw.toml"
 hash = "b43293a9570cccae46c5efd962815bc568b0ec5ba39979d91423c340df8db4cc"
+metafile = true
+
+[[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "bfadfb5203bfe65f1136a0ecfcf07a31f6605dc0607dcecbe0c863995aa1f958"
 metafile = true
 
 [[files]]
