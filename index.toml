@@ -489,6 +489,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/gra
 hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/mahoutsukai/weapon_attributes/caliburn.json"
+hash = "52f40c93044995832a3d5d069e5af51e113806d47bdb9c4a64b0166a7d319d1f"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/vampirism/weapon_attributes/basic_crossbow.json"
 hash = "3f3b4a2fb3c13b1326c8a81e9c1a013b1f0709388b26fdf1bf4a8590066f2a56"
 
