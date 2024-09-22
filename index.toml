@@ -565,6 +565,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
 hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
 
 [[files]]
+file = "config/paxi/datapacks/Arachne Pack 1.0.0.zip"
+hash = "b920e260ba0e2391d5febbeb71829f173f0bedf3151a57b191f3661cf85aaf2d"
+
+[[files]]
 file = "config/paxi/datapacks/Miasmatic 1.0.2.zip"
 hash = "464365bfad263da90ef50ced20c145934eb490d8bd30b3f920a463dcbfebfcda"
 
