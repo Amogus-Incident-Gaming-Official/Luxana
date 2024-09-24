@@ -1051,6 +1051,11 @@ hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "8718408c4d35357a00a19defc2c8bea8eb109f3a69ea0ac0b1e2ca27f3c95283"
 metafile = true
