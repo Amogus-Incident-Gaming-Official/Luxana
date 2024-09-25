@@ -936,6 +936,11 @@ hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
 
 [[files]]
+file = "mods/biomancy.pw.toml"
+hash = "071367e7178e92c698688f3b81b788bb2684e21c2883b3efbbb3300ebf9df91e"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "5be62cf52a3584f39286d261f9325a1ddfb0efb6f1838b9f368df6a28cab3d15"
 metafile = true
