@@ -1155,6 +1155,11 @@ hash = "e1158d5dafb2fb0a4cc9dc0399a82b1193f5f40533c211ff276b259ff9c6337f"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "916154f13a1994315af89007fd9397c83052d770d9fd09fe42648f5ac053f81e"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "8f7bf8cadef4581506eac1b8274ab9554ebad4e2a8ab63a5f9307fc93cff9353"
 metafile = true
