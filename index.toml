@@ -795,6 +795,10 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "07e62c599cd65f375510ad172ac8761d21cc0ed196c9c11bfcbca4f29a499a9a"
 
 [[files]]
+file = "mods/Usable Product V5.2.3 - 1.20.1.jar"
+hash = "b76857e2b86567c0d7706435e373ee89973ca5fb289bc2962851854ae57434f9"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "337ca607ca95b9547af58707a91f58baf61f23a14e187f3ba1437a794d5188fe"
 metafile = true
