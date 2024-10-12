@@ -1089,6 +1089,11 @@ hash = "dc9b6077e233adda9597eb5dc7a07921125f834e54c2970038501bd5cfb60235"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "4d4c31e67204d3381f826c05e02e041126c5f7c10a26894cbcce924f6407a027"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "1c10aa91aa80a4a0250028d9bb465b914a38873c0be98951b62a8ead5034bd24"
 metafile = true
