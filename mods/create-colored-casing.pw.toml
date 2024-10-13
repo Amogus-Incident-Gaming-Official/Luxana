@@ -1,0 +1,13 @@
+name = "Create: Colored Casing"
+filename = "createcoloredcasing-0.1b-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bes8nF5O/versions/w9nzUAKA/createcoloredcasing-0.1b-1.20.1.jar"
+hash-format = "sha512"
+hash = "01178b483fabfe446afefa84c2734b3e6879321931f5afe5fef58bab92150ab91abd2e49b5c71aae6f268f7a5416324f1b5c6c1ce0fbbf68bf3feafb81d3ddb3"
+
+[update]
+[update.modrinth]
+mod-id = "Bes8nF5O"
+version = "w9nzUAKA"

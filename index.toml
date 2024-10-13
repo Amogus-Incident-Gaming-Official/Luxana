@@ -573,6 +573,10 @@ file = "config/paxi/datapacks/Arachne Pack 1.0.0.zip"
 hash = "5cb93ad9d8cdddee83d8b346c516e06f19f2aa78f95c3c5c27fc5a8bcc90aa5f"
 
 [[files]]
+file = "config/paxi/datapacks/Common Stargate Pedestals 1.20.1 - 1.2.1.zip"
+hash = "2bbf0d06ad4f8d609a92e75349303e54a01afd1166f1e06d178724c61bd42838"
+
+[[files]]
 file = "config/paxi/datapacks/Miasmatic 1.0.2.zip"
 hash = "464365bfad263da90ef50ced20c145934eb490d8bd30b3f920a463dcbfebfcda"
 
@@ -1099,8 +1103,23 @@ hash = "1c10aa91aa80a4a0250028d9bb465b914a38873c0be98951b62a8ead5034bd24"
 metafile = true
 
 [[files]]
+file = "mods/create-colored-casing.pw.toml"
+hash = "0fc7f146a4a77bb5b825cc9b9399b0cc2a05640677cfc8a3e0e86a353709d145"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6f2dd94587eeece8009e19fdb79f0f7326d1807baed47eb67afa349dcfbe6d49"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "7fab5549421a6626beb06245584ebc29c850a1e3b3bfc400665eb167ae35866a"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
 
 [[files]]
@@ -1867,6 +1886,16 @@ metafile = true
 [[files]]
 file = "mods/servuxforged.pw.toml"
 hash = "64d7d38bf66b2df528bdad61843b03d473de18d45bdb8a22480b6fb932792c2f"
+metafile = true
+
+[[files]]
+file = "mods/sgjourney.pw.toml"
+hash = "0ad6523c254dd1e863a233707c8f9ac4558cb36b5f17e7f45569fc82dc392b01"
+metafile = true
+
+[[files]]
+file = "mods/sgtrain.pw.toml"
+hash = "4ae660cb9bdfb12cedf969100a67d71e5dfa6181c4cc66d850ace21c1739bea0"
 metafile = true
 
 [[files]]
