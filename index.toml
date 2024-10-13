@@ -1103,11 +1103,6 @@ hash = "1c10aa91aa80a4a0250028d9bb465b914a38873c0be98951b62a8ead5034bd24"
 metafile = true
 
 [[files]]
-file = "mods/create-colored-casing.pw.toml"
-hash = "0fc7f146a4a77bb5b825cc9b9399b0cc2a05640677cfc8a3e0e86a353709d145"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6f2dd94587eeece8009e19fdb79f0f7326d1807baed47eb67afa349dcfbe6d49"
 metafile = true
