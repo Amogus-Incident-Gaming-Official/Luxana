@@ -1,0 +1,35 @@
+[ 
+  {
+    "mob": "alexsmobs:seagull",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:blue_jay",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "embers:ancient_golem",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "hamsters:hamster",
+    "mincount": {
+      "amount": 10,
+      "mob": "hamsters:hamster",
+      "perplayer": false
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:raccoon",
+    "mincount": {
+      "amount": 5,
+      "mob": "alexsmobs:raccoon",
+      "perplayer": false
+    },
+    "result": "deny"
+  }
+]
