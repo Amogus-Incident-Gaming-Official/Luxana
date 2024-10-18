@@ -1,13 +1,13 @@
 name = "Totemic"
-filename = "Totemic-forge-1.20.1-0.12.13.jar"
+filename = "Totemic-forge-1.20.1-0.12.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GLffYJtD/versions/uGwPeVuG/Totemic-forge-1.20.1-0.12.13.jar"
-hash-format = "sha1"
-hash = "4c3908525fd165f3d145232482b6872362dbd8bb"
+url = "https://cdn.modrinth.com/data/GLffYJtD/versions/ecUt6mSf/Totemic-forge-1.20.1-0.12.14.jar"
+hash-format = "sha512"
+hash = "be59f276803d957256843dab7e09a8ba815daf743452b8e5c23ea6d922064a951db5cdbf32e84699ced29d38194c49263e41ab04b910c2c8b7284c8a7bd615f4"
 
 [update]
 [update.modrinth]
 mod-id = "GLffYJtD"
-version = "uGwPeVuG"
+version = "ecUt6mSf"

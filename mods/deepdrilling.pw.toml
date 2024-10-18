@@ -1,13 +1,13 @@
 name = "Deep Drilling"
-filename = "deepdrilling-1.0.2+forge-1.20.1-forge.jar"
+filename = "deepdrilling-1.1.1+forge-1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7voFu8fj/versions/wTLUTxFQ/deepdrilling-1.0.2%2Bforge-1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "e31930f04b1c93507344c9efb0e28e14b5b41663"
+url = "https://cdn.modrinth.com/data/7voFu8fj/versions/2XtIcdBu/deepdrilling-1.1.1%2Bforge-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "bf8e26968da7dd9a4edc500be0c950a189d33030a30bf19b6b7b98a4696ffac48d885d01da43e0c86ff0ff2ecc16bd8202c90ad7f455a39119d138bb8f5f76ee"
 
 [update]
 [update.modrinth]
 mod-id = "7voFu8fj"
-version = "wTLUTxFQ"
+version = "2XtIcdBu"
