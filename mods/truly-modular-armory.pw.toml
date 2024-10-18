@@ -1,13 +1,13 @@
 name = "Truly Modular: Armory"
-filename = "Truly-Modular-Armory-1.0-pre-release.2-1.20.1.jar"
+filename = "Truly-Modular-armory-armory-forge-1.9-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6mUV27DN/versions/Jmq4SOR1/Truly-Modular-Armory-1.0-pre-release.2-1.20.1.jar"
-hash-format = "sha512"
-hash = "86e48ece4c193344abf8509ef797abb9c7e1acc8da0c792481ffa18126287188726a273b4e86474d5689e27e8ffb35b9e85b0413c4a3cdd77c0f968f9190fd54"
+url = "https://cdn.modrinth.com/data/6mUV27DN/versions/o3mAzo1x/Truly-Modular-armory-armory-forge-1.9-1.20.1.jar"
+hash-format = "sha1"
+hash = "e7602d9f0b053ef99a37fc3fcd0c2d7a3b73102a"
 
 [update]
 [update.modrinth]
 mod-id = "6mUV27DN"
-version = "Jmq4SOR1"
+version = "o3mAzo1x"
