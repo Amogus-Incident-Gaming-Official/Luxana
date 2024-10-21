@@ -1409,6 +1409,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
+metafile = true
+
+[[files]]
 file = "mods/fog.pw.toml"
 hash = "5d57c90dae73e97f48b3ae38fcb5fe64820a25c53ae17f7bf6ec4882cae5d6d0"
 metafile = true
