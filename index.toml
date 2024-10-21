@@ -1965,6 +1965,11 @@ hash = "f0633419b9111ff1cf324db412ff0912aaba66cba907abd8c20c3a21ae47605a"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "c5e258d8453807eeae0e4c65142dd9619dc41c488b9b95d21cab0ad17a6ef62e"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "e1caca0263b55a7d569ffa3db7c760001c489ac8710808e6b55a05400536455b"
 metafile = true
