@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
-hash = "f2093f2b4a09a7c9333abb1d82a4a56e8cb89e794535dc8c9142e92593a222ee"
+hash = "69df1d0abf4747e813884ba5dec8ec0afe951e6a761f87930e263b64d2ed8938"
 metafile = true
 
 [[files]]
@@ -1693,7 +1693,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "8243e987ca59556c3a958b3ad8f343166cf84f98501b14ed5e3694695d2474d9"
+hash = "61855ea0262502eeb5ddc98de1c2b63d708cafe1e03862f5ba5e7d05ffed5130"
 metafile = true
 
 [[files]]
