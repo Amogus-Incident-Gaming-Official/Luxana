@@ -1738,7 +1738,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-item-api.pw.toml"
-hash = "f3b2c33e8211255a8ce6a83e58f51144f99497bb1737edc94ebd05dd7b5494f6"
+hash = "7b3ebd048e8df86242d642b057778c84213cb9944e726ea02581364fbd91e289"
 metafile = true
 
 [[files]]
