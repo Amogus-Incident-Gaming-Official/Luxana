@@ -1229,6 +1229,11 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
+metafile = true
+
+[[files]]
 file = "mods/deepdrilling.pw.toml"
 hash = "e1158d5dafb2fb0a4cc9dc0399a82b1193f5f40533c211ff276b259ff9c6337f"
 metafile = true
@@ -1271,11 +1276,6 @@ metafile = true
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "332e62b82e074e65b260dc2d72a611a7a1f1d564b1629234ddc099e56f6c1612"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "e43180891bf07ec4d9e1c855a1747b52a6bb6cac085f68e49574216c784d5cfb"
 metafile = true
 
 [[files]]
@@ -1597,6 +1597,11 @@ hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "cf0a628987c631b56cdb7b027f729093e6507c8cd84b1098b328db1754046089"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
 metafile = true
@@ -1654,6 +1659,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "02e0de45e61e53a62fd3ef85a2e1c5703567ba2d7df4fd4f310c85c5c02838d7"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "b4471c13de9788bd17bbed50ca925359f10c66a647edae1c6aac3c10c23af857"
 metafile = true
 
 [[files]]
@@ -1737,11 +1747,6 @@ hash = "92120ee9b725903c6b418855cbc44829314852561b26c422b5872cd602439a7b"
 metafile = true
 
 [[files]]
-file = "mods/modular-item-api.pw.toml"
-hash = "7b3ebd048e8df86242d642b057778c84213cb9944e726ea02581364fbd91e289"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "d647d2a0f1e416b4866b05cdbd33977627ee24d6071b13860f4e328b77e50a38"
 metafile = true
@@ -1763,11 +1768,6 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
-metafile = true
-
-[[files]]
-file = "mods/natures-aura.pw.toml"
-hash = "6b16e3fbaa46394441f867785fec5ae465f4f75b412a9b9bf211f8ab4345c530"
 metafile = true
 
 [[files]]
@@ -2092,21 +2092,6 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-archery.pw.toml"
-hash = "8580fa20163e2772fb015dd4fb1c498fcf1909ba75d0a48315f559aa9f3c13cd"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-armory.pw.toml"
-hash = "4a793080369e0b54b07c2593c4fc00a7c8d2566ca7ebd7d2e643cf66bc5af00b"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-arsenal.pw.toml"
-hash = "9fafe7c459ae7c76990325b1cbd7bd946ab2af46234bbe3e88055ce291c2e823"
 metafile = true
 
 [[files]]
