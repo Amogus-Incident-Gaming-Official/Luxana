@@ -1771,6 +1771,11 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
+file = "mods/musket-mod.pw.toml"
+hash = "5bec5af8168f71eee949cd400802293aed0eb36a1f8fa60ae5abe5713b4f38ae"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
@@ -1962,11 +1967,6 @@ metafile = true
 [[files]]
 file = "mods/sgtrain.pw.toml"
 hash = "4ae660cb9bdfb12cedf969100a67d71e5dfa6181c4cc66d850ace21c1739bea0"
-metafile = true
-
-[[files]]
-file = "mods/simple-musket.pw.toml"
-hash = "f0633419b9111ff1cf324db412ff0912aaba66cba907abd8c20c3a21ae47605a"
 metafile = true
 
 [[files]]
