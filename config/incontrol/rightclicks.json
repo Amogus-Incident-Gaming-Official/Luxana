@@ -1,1 +1,9 @@
-[]
+[
+ {
+   "playerhelditem": "minecraft:nether_star",
+   "block": "minecraft:redstone_block",
+   "customevent": "harbinger_spawn",
+   "drop":"minecraft:nether_star",
+   "result": "allow"
+ }
+]

@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "on": "custom",
+    "parameters": {
+      "name": "harbinger_spawn"
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld"
+    },
+    "spawn": {
+      "mob": "cataclysm:the_harbinger",
+      "mindistance": 0,
+      "maxdistance": 2,
+      "mincount": 1,
+      "maxcount": 1,
+      "attempts": 20,
+      "norestrictions": true
+    }
+  }
+]
