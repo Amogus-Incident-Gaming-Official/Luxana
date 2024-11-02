@@ -847,6 +847,26 @@ file = "kubejs/server_scripts/advancement_removal.js"
 hash = "3db8837f89121fa614f20a3f92ecfa1e527d88bd19f4f6187fc91539c9e134c5"
 
 [[files]]
+file = "kubejs/server_scripts/ancientremnantspawn.js"
+hash = "46170c39fc510d30f1b9671fad4d42ceee703afcd5ca8dc8e9f0ce8483354709"
+
+[[files]]
+file = "kubejs/server_scripts/bossaltarpickup.js"
+hash = "e4df2d0dcfc26c1b1acccca18124e080479b47206668ef38288c1662c82979c5"
+
+[[files]]
+file = "kubejs/server_scripts/bossspawnitemcrafts.js"
+hash = "e337b9440c0b33b57403b74a9b6b83559e89fa7372b84c96dfe7ebfce47042e6"
+
+[[files]]
+file = "kubejs/server_scripts/harbingerspawn.js"
+hash = "320e61e81409c36813f7c228abf3cb18352b6ba300bb95c95eb420712bcf6213"
+
+[[files]]
+file = "kubejs/server_scripts/netheritemonstrosityspawn.js"
+hash = "375bcfcf939c106611fab70a6abeb9f0cc65ae488e2f793476a6ac8f964a0630"
+
+[[files]]
 file = "kubejs/server_scripts/origin_command.js"
 hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
