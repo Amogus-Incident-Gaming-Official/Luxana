@@ -66,7 +66,7 @@ ServerEvents.recipes(bsb => {
     'AAA'
   ],
   {
-    A: 'cataclysm:black_steel_ingot',
+    A: 'cataclysm:black_steel_ingot'
       }
 )
 })
