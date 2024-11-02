@@ -856,7 +856,7 @@ hash = "e4df2d0dcfc26c1b1acccca18124e080479b47206668ef38288c1662c82979c5"
 
 [[files]]
 file = "kubejs/server_scripts/bossspawnitemcrafts.js"
-hash = "e337b9440c0b33b57403b74a9b6b83559e89fa7372b84c96dfe7ebfce47042e6"
+hash = "55ecd3fc73b806c78a914970442bff7b5727d99a97f8ad1908d59aefeb2e082f"
 
 [[files]]
 file = "kubejs/server_scripts/harbingerspawn.js"

@@ -57,3 +57,16 @@ ServerEvents.recipes(grave => {
   }
 )
 })
+ServerEvents.recipes(bsb => {
+  bsb.shaped(
+  Item.of('cataclysm:black_steel_block', 1), // arg 1: output
+  [
+    'AAA',
+    'AAA', // arg 2: the shape (array of strings)
+    'AAA'
+  ],
+  {
+    A: 'cataclysm:black_steel_ingot',
+      }
+)
+})
