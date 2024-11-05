@@ -461,6 +461,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "32abce0bd8fabd550a0e63b78cc00a3a6a176ad951fae4c7c883f0aae6a95bb4"
 
 [[files]]
+file = "config/friendlygriefing-server.toml"
+hash = "9e55f483142b82eccb82f0243477b16b8ba457e9e36f63bbeed3805a138a04dc"
+
+[[files]]
 file = "config/guideapi_vp-common.toml"
 hash = "07e207aa3743ee50475ff97b0f76e14512780c6fbc491375782b2bff5aa764fc"
 
