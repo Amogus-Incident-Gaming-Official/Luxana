@@ -1622,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "cf0a628987c631b56cdb7b027f729093e6507c8cd84b1098b328db1754046089"
+hash = "b5baa9c71008ac4bceb08fbb361209743f25671760e365cfad5abf254e5ad82c"
 metafile = true
 
 [[files]]
@@ -1687,7 +1687,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "b4471c13de9788bd17bbed50ca925359f10c66a647edae1c6aac3c10c23af857"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
