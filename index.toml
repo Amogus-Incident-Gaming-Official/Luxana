@@ -1556,6 +1556,11 @@ hash = "72c5a050f27f3538793dac87230372df8a79a9a94fd51dbc7d92a6d5c02f2a8f"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "489361350dff48651a286ac3a979f355bea9d06e221e26f88aa044869a44b640"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
 metafile = true
