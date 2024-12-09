@@ -1518,6 +1518,11 @@ hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "c1d1a67fd1aa59ef8ff134b5801d0ffee92610ec6639562617dc283eaf3c2274"
+metafile = true
+
+[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "5634554cb7a68b6a456822b2fa4a1e54192c498c3b313291af0b190ea29b2e8e"
 
@@ -1862,6 +1867,11 @@ metafile = true
 [[files]]
 file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
 hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "4e1e4b7b4b34618eca0551f142e00cb44673be267d0b4282b6ee0a0fa4d799a6"
+metafile = true
 
 [[files]]
 file = "mods/paxi.pw.toml"
