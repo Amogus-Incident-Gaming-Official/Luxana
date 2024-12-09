@@ -1527,10 +1527,6 @@ file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "5634554cb7a68b6a456822b2fa4a1e54192c498c3b313291af0b190ea29b2e8e"
 
 [[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-651.jar"
-hash = "a0f6b87b271655065f8cd8cc1185696ba04e6b0b46362ec40219401d37550db2"
-
-[[files]]
 file = "mods/icarus.pw.toml"
 hash = "1073df5f5dafb0395b0f6183c1f3a34cbc20736cf39732d33de2133c56be97c0"
 metafile = true
@@ -1557,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "489361350dff48651a286ac3a979f355bea9d06e221e26f88aa044869a44b640"
+hash = "34933598242e07a7b1d3c2c6bc4d5ce4341bfcd0eeb7b058b7041b24e7dba734"
 metafile = true
 
 [[files]]
@@ -1868,10 +1864,6 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
-
-[[files]]
-file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
-hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
 
 [[files]]
 file = "mods/paucal.pw.toml"
