@@ -553,6 +553,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/mahoutsukai/weapon_attributes/mor
 hash = "52f40c93044995832a3d5d069e5af51e113806d47bdb9c4a64b0166a7d319d1f"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/minecolonies/tags/items/dyer_ingredient.json"
+hash = "f428af02bdfa2cf77dac4001498fe511e8d0b746e85bb5bf76f4af417f0c66d6"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/minecolonies/tags/items/florist_flowers.json"
 hash = "f2324db4abbd7ce782a7cddcad003bbb1296b670f78d39f33e8e010dc4e04489"
 
