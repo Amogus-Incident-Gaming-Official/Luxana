@@ -9,6 +9,10 @@ file = "config/alexsmobs.toml"
 hash = "8b7791bee8611f4062ef42a702b5589fd84f60e3137078ae9f8e34c3f383e5d8"
 
 [[files]]
+file = "config/amendments-common.toml"
+hash = "316fdc219f2e1845918a3ca9d7799830a4925ea3ecf41e600cf658f83ac24bd1"
+
+[[files]]
 file = "config/ars_elemental/glyph_aerial_filter.toml"
 hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
 
