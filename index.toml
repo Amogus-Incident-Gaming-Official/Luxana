@@ -561,6 +561,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/minecolonies/tags/items/dyer_ingr
 hash = "f428af02bdfa2cf77dac4001498fe511e8d0b746e85bb5bf76f4af417f0c66d6"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/minecolonies/tags/items/farmer_ingredients.json"
+hash = "55e17d7f9f8b12a2713910a4a1479f91efb7ad3e4cdbad90b3ff8d2969663cf4"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/minecolonies/tags/items/florist_flowers.json"
 hash = "f2324db4abbd7ce782a7cddcad003bbb1296b670f78d39f33e8e010dc4e04489"
 
